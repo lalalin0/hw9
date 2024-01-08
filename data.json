@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Maria Ivanova",
+    "birthday": "28.08.1998",
+    "height": 165,
+    "weight": 56.1,
+    "car": true,
+    "languages": [
+      "C#",
+      "C++",
+      "C"
+    ]
+  },
+  {
+    "name": "mama",
+    "position": "mama",
+    "salary": 45555555.0
+  },
+  {
+    "name": "\u041d\u043e\u0432\u044b\u0439 \u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a",
+    "position": "\u0414\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c",
+    "salary": 50000
+  },
+  {
+    "name": "mariya ivanova",
+    "position": "spetc",
+    "salary": 5689.0
+  },
+  {
+    "name": "\u041d\u043e\u0432\u044b\u0439 \u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a",
+    "position": "\u0414\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c",
+    "salary": 50000
+  },
+  {
+    "name": "mama",
+    "position": "mama",
+    "salary": 56.0
+  }
+]

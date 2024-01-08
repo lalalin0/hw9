@@ -1,0 +1,4 @@
+masha ivanova 5
+misha galkin 2
+anna gritsuk 9
+vadim sidorov 3
